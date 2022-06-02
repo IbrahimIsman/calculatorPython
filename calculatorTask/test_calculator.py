@@ -13,5 +13,5 @@ def test_division ():
     assert calculator.division(15,3) == 4
 
 def test_sqaure ():
-    assert calculator.square(2) == 5 
+    assert calculator.square(2) == 6 
 
